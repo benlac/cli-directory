@@ -26,8 +26,6 @@ $ cli-directory
 
 When installed globally the `cli-directory` executable will be exposed in your terminal.
 
-Begin scrapping from a specific page
-
 ```bash
 $ cli-directory --help
 $ $ cli-directory all <city>
