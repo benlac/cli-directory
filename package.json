@@ -1,0 +1,20 @@
+{
+  "name": "cli-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "author": "Benoit Lacombled <benoit.lacombled@gmail.com>",
+  "bin": {
+    "cli-directory": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@topcli/spinner": "^2.1.2",
+    "puppeteer": "^22.4.1",
+    "yargs": "^17.7.2"
+  }
+}
