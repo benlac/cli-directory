@@ -28,7 +28,7 @@ When installed globally the `cli-directory` executable will be exposed in your t
 
 ```bash
 $ cli-directory --help
-$ $ cli-directory all <city>
+$ cli-directory all <city>
 $ cli-directory all <city> -p <page>
 
 ```
